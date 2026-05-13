@@ -18,5 +18,9 @@
 
 # Hardhat coverage reports
 /coverage
-.env
+
+# Foundry output
+/out
+/broadcast
+
 .env
